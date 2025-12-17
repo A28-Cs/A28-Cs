@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hello here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am **Ahmed Ismail**, an **AI CNN Engineer** specialized in **Image Classification** and **Computer Vision**.  
 I focus on building, training, and optimizing **Convolutional Neural Networks (CNNs)** with strong hands-on experience in **MobileNetV2, Transfer Learning**, and applied deep learning projects.  
