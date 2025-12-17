@@ -63,6 +63,16 @@ Always open to collaborating on AI, Deep Learning, and Computer Vision projects.
 ---
 
 ## 📌 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A28-Cs&repo=REPO_NAME_1)](https://github.com/A28-Cs/movie-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A28-Cs&repo=REPO_NAME_2)](https://github.com/A28-Cs/Tree-Clinic)
+
+### 🌿 Plant Disease Diagnosis – CNN (MobileNetV2)
+🔹 Image classification system using **MobileNetV2** and **Transfer Learning**  
+🔹 Focused on CNN optimization and performance evaluation  
+👉 Repo: [https://github.com/A28-Cs/REPO_NAME_1](https://github.com/A28-Cs/Tree-Clinic)
+
+---
+
+### 🖼️ Movie Analysis
+🔹 Custom CNN architectures for multi-class image classification  
+🔹 Data preprocessing, augmentation, and evaluation  
+👉 Repo: [https://github.com/A28-Cs/REPO_NAME_2](https://github.com/A28-Cs/movie-analysis)
 
