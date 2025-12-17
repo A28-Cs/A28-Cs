@@ -8,7 +8,7 @@ Always open to collaborating on AI, Deep Learning, and Computer Vision projects.
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Evil_0_tech)](https://www.youtube.com/@Evil_0_tech)
 [![TikTok Badge](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@evil_0_code)](https://www.tiktok.com/@evil_0_code)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/evil_0_code)](https://www.instagram.com/evil_0_code)
-[![Gmail Badge](https://img.shields.io/badge/-ahmed28cs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed28cs@gmail.com)](mailto:ahmed28cs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-info@a28cs.pro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@a28cs.pro)](mailto:info@a28cs.pro)
 
 ---
 
