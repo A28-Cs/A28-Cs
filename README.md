@@ -62,8 +62,7 @@ Always open to collaborating on AI, Deep Learning, and Computer Vision projects.
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A28-Cs&repo=REPO_NAME_1)](https://github.com/A28-Cs/movie-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A28-Cs&repo=REPO_NAME_2)](https://github.com/A28-Cs/Tree-Clinic)
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A28-Cs&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=A28-Cs.A28-Cs)
