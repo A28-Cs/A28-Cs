@@ -24,7 +24,7 @@ Always open to collaborating on AI, Deep Learning, and Computer Vision projects.
 
 ### 🧠 AI & Deep Learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-D00000?style=flat-square&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-D0D000?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-FF6F00?style=flat-square&logo=keras)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-1E93F7?style=flat-square&logo=scikit-learn)
 ![CNN](https://img.shields.io/badge/-CNN-black?style=flat-square)
